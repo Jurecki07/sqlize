@@ -1,1 +1,2 @@
 node_modules
+insert into users (name,email,bio,"createdAt","updatedAt") values ('jungle','jungle@yahoo.com','janitor',now(),now());
